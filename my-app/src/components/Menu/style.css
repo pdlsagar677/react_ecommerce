@@ -1,0 +1,39 @@
+.menu {
+    height: 56px;
+    position: relative;
+    width: 312px;
+  }
+  
+  .menu .fresh-fruit-2 {
+    font-family: var(--body-small-body-small-400-font-family);
+    font-size: var(--body-small-body-small-400-font-size);
+    font-style: var(--body-small-body-small-400-font-style);
+    font-weight: var(--body-small-body-small-400-font-weight);
+    left: 56px;
+    letter-spacing: var(--body-small-body-small-400-letter-spacing);
+    line-height: var(--body-small-body-small-400-line-height);
+    position: absolute;
+    top: 18px;
+    width: 228px;
+  }
+  
+  .menu .apple {
+    height: 24px !important;
+    left: 20px !important;
+    position: absolute !important;
+    top: 16px !important;
+    width: 24px !important;
+  }
+  
+  .menu.property-1-4-hover {
+    background-color: var(--brandingsuccess);
+  }
+  
+  .menu.property-1-4-hover .fresh-fruit-2 {
+    color: var(--gray-scalewhite);
+  }
+  
+  .menu.property-1-4-default .fresh-fruit-2 {
+    color: var(--gray-scalegray-800);
+  }
+  

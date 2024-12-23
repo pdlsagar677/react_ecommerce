@@ -1,0 +1,42 @@
+.method-mastercard {
+    background-color: #ffffff;
+    border: 1px solid;
+    border-color: #d9d9d9;
+    border-radius: 4px;
+    height: 24px;
+    width: 34px;
+  }
+  
+  .method-mastercard .mastercard {
+    background-image: url(https://c.animaapp.com/cRCWnf9W/img/left-6.svg);
+    background-size: 100% 100%;
+    height: 13px;
+    left: 5px;
+    position: relative;
+    top: 4px;
+    width: 22px;
+  }
+  
+  .method-mastercard .overlap-group-2 {
+    height: 13px;
+    left: 9px;
+    position: relative;
+    width: 14px;
+  }
+  
+  .method-mastercard .right {
+    height: 13px;
+    left: 2px;
+    position: absolute;
+    top: 0;
+    width: 11px;
+  }
+  
+  .method-mastercard .middle {
+    height: 10px;
+    left: 0;
+    position: absolute;
+    top: 2px;
+    width: 5px;
+  }
+  

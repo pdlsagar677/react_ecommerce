@@ -1,0 +1,1 @@
+export { MethodMastercard } from "./MethodMastercard";

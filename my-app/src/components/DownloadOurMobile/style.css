@@ -1,0 +1,64 @@
+.download-our-mobile {
+    align-items: flex-start;
+    display: inline-flex;
+    gap: 8px;
+    position: relative;
+  }
+  
+  .download-our-mobile .div {
+    align-items: center;
+    background-color: var(--gray-scalegray-800);
+    border-radius: 4px;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 6px;
+    padding: 10px;
+    position: relative;
+  }
+  
+  .download-our-mobile .apple-negative {
+    height: 28px;
+    position: relative;
+    width: 28px;
+  }
+  
+  .download-our-mobile .frame {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    position: relative;
+  }
+  
+  .download-our-mobile .text-wrapper-2 {
+    color: var(--gray-scalegray-300);
+    font-family: "Poppins", Helvetica;
+    font-size: 11px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: Truepx;
+    margin-top: -1.00px;
+    position: relative;
+    width: 100px;
+  }
+  
+  .download-our-mobile .text-wrapper-3 {
+    color: var(--gray-scalewhite);
+    font-family: var(--body-medium-body-medium-500-font-family);
+    font-size: var(--body-medium-body-medium-500-font-size);
+    font-style: var(--body-medium-body-medium-500-font-style);
+    font-weight: var(--body-medium-body-medium-500-font-weight);
+    height: 24.49px;
+    letter-spacing: var(--body-medium-body-medium-500-letter-spacing);
+    line-height: var(--body-medium-body-medium-500-line-height);
+    position: relative;
+    white-space: nowrap;
+    width: 100px;
+  }
+  
+  .download-our-mobile .icon-google-play {
+    height: 24px;
+    position: relative;
+    width: 24px;
+  }
+  

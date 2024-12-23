@@ -1,0 +1,139 @@
+.bannar-1 {
+    background-image: url(https://c.animaapp.com/cRCWnf9W/img/rectangle-52-1.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    border-radius: 12px;
+    height: 560px;
+    position: relative;
+    width: 984px;
+  }
+  
+  .bannar-1 .frame-9 {
+    align-items: flex-start;
+    display: inline-flex;
+    flex-direction: column;
+    gap: 32px;
+    left: 48px;
+    position: absolute;
+    top: 142px;
+  }
+  
+  .bannar-1 .info-4 {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 20px;
+    position: relative;
+  }
+  
+  .bannar-1 .fresh-healthy {
+    color: var(--gray-scalewhite);
+    font-family: var(--heading-02-heading-02-600-font-family);
+    font-size: var(--heading-02-heading-02-600-font-size);
+    font-style: var(--heading-02-heading-02-600-font-style);
+    font-weight: var(--heading-02-heading-02-600-font-weight);
+    letter-spacing: var(--heading-02-heading-02-600-letter-spacing);
+    line-height: var(--heading-02-heading-02-600-line-height);
+    margin-top: -1.00px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .bannar-1 .description {
+    align-items: center;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 12px;
+    position: relative;
+  }
+  
+  .bannar-1 .rectangle {
+    background-color: var(--brandingsuccess);
+    height: 56px;
+    position: relative;
+    width: 2px;
+  }
+  
+  .bannar-1 .sale-up-to-off {
+    color: transparent;
+    font-family: "Poppins", Helvetica;
+    font-size: 24px;
+    font-weight: 500;
+    letter-spacing: 0.72px;
+    line-height: Truepx;
+    margin-top: -1.00px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .bannar-1 .text-wrapper-65 {
+    color: #ffffff99;
+    letter-spacing: 0.17px;
+  }
+  
+  .bannar-1 .text-wrapper-66 {
+    color: #ffffff;
+    letter-spacing: 0.17px;
+  }
+  
+  .bannar-1 .button-12 {
+    all: unset;
+    align-items: center;
+    background-color: var(--brandingsuccess);
+    border-radius: 43px;
+    box-sizing: border-box;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 16px;
+    justify-content: center;
+    padding: 16px 40px;
+    position: relative;
+  }
+  
+  .bannar-1 .normal-2 {
+    color: var(--gray-scalewhite);
+    font-family: var(--body-medium-body-medium-600-font-family);
+    font-size: var(--body-medium-body-medium-600-font-size);
+    font-style: var(--body-medium-body-medium-600-font-style);
+    font-weight: var(--body-medium-body-medium-600-font-weight);
+    letter-spacing: var(--body-medium-body-medium-600-letter-spacing);
+    line-height: var(--body-medium-body-medium-600-line-height);
+    margin-top: -0.50px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .bannar-1 .group-11 {
+    height: 13.55px;
+    margin-right: -0.75px;
+    position: relative;
+    width: 16.5px;
+  }
+  
+  .bannar-1 .tracker {
+    align-items: center;
+    display: inline-flex;
+    gap: 8px;
+    left: 48px;
+    position: absolute;
+    top: 518px;
+  }
+  
+  .bannar-1 .ellipse {
+    background-color: var(--gray-scalewhite);
+    border-radius: 5px;
+    height: 10px;
+    position: relative;
+    width: 10px;
+  }
+  
+  .bannar-1 .ellipse-2 {
+    background-color: #ffffff4c;
+    border-radius: 5px;
+    height: 10px;
+    position: relative;
+    width: 10px;
+  }
+  

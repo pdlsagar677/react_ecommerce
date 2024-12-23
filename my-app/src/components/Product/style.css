@@ -1,0 +1,95 @@
+.product {
+  align-items: flex-start;
+  background-color: var(--gray-scalewhite);
+  border: 1px solid;
+  border-radius: 6px;
+  display: inline-flex;
+  position: relative;
+}
+
+.product .img-2 {
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.product .product-info-2 {
+  position: relative;
+}
+
+.product .info-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.product .chanise-cabbage {
+  color: var(--gray-scalegray-700);
+  font-family: var(--body-small-body-small-400-font-family);
+  font-size: var(--body-small-body-small-400-font-size);
+  font-style: var(--body-small-body-small-400-font-style);
+  font-weight: var(--body-small-body-small-400-font-weight);
+  letter-spacing: var(--body-small-body-small-400-letter-spacing);
+  line-height: var(--body-small-body-small-400-line-height);
+  margin-top: -1.00px;
+  position: relative;
+  width: 288px;
+}
+
+.product .price-2 {
+  flex: 0 0 auto !important;
+}
+
+.product .chanise-cabbage-2 {
+  color: var(--brandingsuccess-dark);
+  font-family: var(--body-small-body-small-400-font-family);
+  font-size: var(--body-small-body-small-400-font-size);
+  font-style: var(--body-small-body-small-400-font-style);
+  font-weight: var(--body-small-body-small-400-font-weight);
+  left: 12px;
+  letter-spacing: var(--body-small-body-small-400-letter-spacing);
+  line-height: var(--body-small-body-small-400-line-height);
+  position: absolute;
+  top: 24px;
+  width: 288px;
+}
+
+.product .frame-6 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 12px;
+  left: 12px;
+  position: absolute;
+  top: 52px;
+}
+
+.product .instance-node-4 {
+  height: 40px !important;
+  position: relative !important;
+  width: 40px !important;
+}
+
+.product.property-1-2-hover {
+  border-color: var(--brandingsuccess-dark);
+  box-shadow: var(--hover-shadow);
+}
+
+.product.property-1-2-default {
+  border-color: var(--gray-scalegray-100);
+}
+
+.product.property-1-2-hover .product-info-2 {
+  height: 116px;
+  width: 312px;
+}
+
+.product.property-1-2-default .product-info-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 6px;
+  justify-content: center;
+  padding: 24px 12px 25px;
+}

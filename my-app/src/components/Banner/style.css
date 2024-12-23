@@ -1,0 +1,102 @@
+.bannar {
+    background-image: url(https://c.animaapp.com/cRCWnf9W/img/rectangle-54-4@2x.png);
+    background-size: 100% 100%;
+    height: 423px;
+    position: relative;
+    width: 312px;
+  }
+  
+  .bannar .info-3 {
+    align-items: center;
+    display: inline-flex;
+    flex-direction: column;
+    gap: 20px;
+    position: relative;
+    top: 26px;
+  }
+  
+  .bannar .frame-7 {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 12px;
+    position: relative;
+  }
+  
+  .bannar .summer-fruit {
+    color: var(--gray-scalegray-900);
+    font-family: var(--heading-05-heading-05-600-font-family);
+    font-size: var(--heading-05-heading-05-600-font-size);
+    font-style: var(--heading-05-heading-05-600-font-style);
+    font-weight: var(--heading-05-heading-05-600-font-weight);
+    letter-spacing: var(--heading-05-heading-05-600-letter-spacing);
+    line-height: var(--heading-05-heading-05-600-line-height);
+    margin-top: -1.00px;
+    position: relative;
+    text-align: center;
+    width: 312px;
+  }
+  
+  .bannar .starting-at {
+    color: var(--gray-scalegray-900);
+    font-family: "Poppins", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: Truepx;
+    position: relative;
+    text-align: center;
+    width: 312px;
+  }
+  
+  .bannar .span {
+    color: #191919;
+    font-family: "Poppins", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: Truepx;
+  }
+  
+  .bannar .text-wrapper-50 {
+    font-size: 24px;
+    font-weight: 500;
+  }
+  
+  .bannar .button-8 {
+    all: unset;
+    align-items: center;
+    background-color: var(--gray-scalewhite);
+    border-radius: 43px;
+    box-sizing: border-box;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 12px;
+    justify-content: center;
+    padding: 14px 32px;
+    position: relative;
+  }
+  
+  .bannar .text-wrapper-51 {
+    color: var(--brandingsuccess);
+    font-family: var(--body-small-body-small-600-font-family);
+    font-size: var(--body-small-body-small-600-font-size);
+    font-style: var(--body-small-body-small-600-font-style);
+    font-weight: var(--body-small-body-small-600-font-weight);
+    letter-spacing: var(--body-small-body-small-600-letter-spacing);
+    line-height: var(--body-small-body-small-600-line-height);
+    margin-top: -0.50px;
+    position: relative;
+    text-align: justify;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .bannar .group-7 {
+    height: 13.55px;
+    margin-right: -0.75px;
+    position: relative;
+    width: 16.5px;
+  }
+  

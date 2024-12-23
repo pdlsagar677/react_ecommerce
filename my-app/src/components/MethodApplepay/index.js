@@ -1,0 +1,1 @@
+export { MethodApplepay } from "./MethodApplepay";

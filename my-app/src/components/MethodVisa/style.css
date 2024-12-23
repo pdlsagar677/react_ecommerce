@@ -1,0 +1,18 @@
+.method-visa {
+    background-color: #ffffff;
+    border: 1px solid;
+    border-color: #d9d9d9;
+    border-radius: 4px;
+    height: 24px;
+    position: relative;
+    width: 34px;
+  }
+  
+  .method-visa .visa-logo {
+    height: 8px;
+    left: 4px;
+    position: absolute;
+    top: 7px;
+    width: 24px;
+  }
+  

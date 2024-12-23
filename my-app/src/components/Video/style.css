@@ -1,0 +1,54 @@
+.video {
+    background-image: url(https://c.animaapp.com/cRCWnf9W/img/rectangle-55-1.png);
+    background-size: 100% 100%;
+    height: 396px;
+    position: relative;
+    width: 1320px;
+  }
+  
+  .video .text-wrapper-48 {
+    color: var(--gray-scalewhite);
+    font-family: var(--heading-04-heading-04-400-font-family);
+    font-size: var(--heading-04-heading-04-400-font-size);
+    font-style: var(--heading-04-heading-04-400-font-style);
+    font-weight: var(--heading-04-heading-04-400-font-weight);
+    left: 413px;
+    letter-spacing: var(--heading-04-heading-04-400-letter-spacing);
+    line-height: var(--heading-04-heading-04-400-line-height);
+    position: absolute;
+    text-align: center;
+    top: 99px;
+    width: 495px;
+  }
+  
+  .video .play {
+    height: 80px;
+    left: 620px;
+    position: absolute;
+    top: 216px;
+    width: 80px;
+  }
+  
+  .video .group-4 {
+    height: 80px;
+  }
+  
+  .video .group-wrapper {
+    border: 1.5px solid;
+    border-color: var(--gray-scalewhite);
+    border-radius: 41.5px;
+    height: 83px;
+    left: -2px;
+    position: relative;
+    top: -2px;
+    width: 83px;
+  }
+  
+  .video .group-5 {
+    height: 24px;
+    left: 32px;
+    position: absolute;
+    top: 28px;
+    width: 20px;
+  }
+  

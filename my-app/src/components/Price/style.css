@@ -1,0 +1,129 @@
+.price {
+    align-items: flex-start;
+    display: inline-flex;
+    position: relative;
+  }
+  
+  .price .text-wrapper-49 {
+    color: var(--gray-scalegray-900);
+    margin-top: -1.00px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .price .element-2 {
+    color: var(--gray-scalegray-400);
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: Truepx;
+    margin-top: -1.00px;
+    position: relative;
+    text-decoration: line-through;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .price.property-1-price {
+    gap: 4px;
+  }
+  
+  .price.property-1-sale {
+    gap: 2px;
+  }
+  
+  .price.property-1-small-sale {
+    gap: 4px;
+  }
+  
+  .price.property-1-BIG {
+    gap: 4px;
+  }
+  
+  .price.property-1-BIG-sale {
+    gap: 4px;
+  }
+  
+  .price.property-1-small {
+    gap: 4px;
+  }
+  
+  .price.property-1-price .text-wrapper-49 {
+    font-family: var(--body-medium-body-medium-500-font-family);
+    font-size: var(--body-medium-body-medium-500-font-size);
+    font-style: var(--body-medium-body-medium-500-font-style);
+    font-weight: var(--body-medium-body-medium-500-font-weight);
+    letter-spacing: var(--body-medium-body-medium-500-letter-spacing);
+    line-height: var(--body-medium-body-medium-500-line-height);
+  }
+  
+  .price.property-1-sale .text-wrapper-49 {
+    font-family: var(--body-medium-body-medium-500-font-family);
+    font-size: var(--body-medium-body-medium-500-font-size);
+    font-style: var(--body-medium-body-medium-500-font-style);
+    font-weight: var(--body-medium-body-medium-500-font-weight);
+    letter-spacing: var(--body-medium-body-medium-500-letter-spacing);
+    line-height: var(--body-medium-body-medium-500-line-height);
+  }
+  
+  .price.property-1-small-sale .text-wrapper-49 {
+    font-family: var(--body-small-body-small-500-font-family);
+    font-size: var(--body-small-body-small-500-font-size);
+    font-style: var(--body-small-body-small-500-font-style);
+    font-weight: var(--body-small-body-small-500-font-weight);
+    letter-spacing: var(--body-small-body-small-500-letter-spacing);
+    line-height: var(--body-small-body-small-500-line-height);
+  }
+  
+  .price.property-1-BIG .text-wrapper-49 {
+    font-family: var(--body-XXL-body-XXL-500-font-family);
+    font-size: var(--body-XXL-body-XXL-500-font-size);
+    font-style: var(--body-XXL-body-XXL-500-font-style);
+    font-weight: var(--body-XXL-body-XXL-500-font-weight);
+    letter-spacing: var(--body-XXL-body-XXL-500-letter-spacing);
+    line-height: var(--body-XXL-body-XXL-500-line-height);
+  }
+  
+  .price.property-1-BIG-sale .text-wrapper-49 {
+    font-family: var(--body-XXL-body-XXL-500-font-family);
+    font-size: var(--body-XXL-body-XXL-500-font-size);
+    font-style: var(--body-XXL-body-XXL-500-font-style);
+    font-weight: var(--body-XXL-body-XXL-500-font-weight);
+    letter-spacing: var(--body-XXL-body-XXL-500-letter-spacing);
+    line-height: var(--body-XXL-body-XXL-500-line-height);
+  }
+  
+  .price.property-1-small .text-wrapper-49 {
+    font-family: var(--body-small-body-small-500-font-family);
+    font-size: var(--body-small-body-small-500-font-size);
+    font-style: var(--body-small-body-small-500-font-style);
+    font-weight: var(--body-small-body-small-500-font-weight);
+    letter-spacing: var(--body-small-body-small-500-letter-spacing);
+    line-height: var(--body-small-body-small-500-line-height);
+  }
+  
+  .price.property-1-price .element-2 {
+    font-size: 16px;
+  }
+  
+  .price.property-1-sale .element-2 {
+    font-size: 16px;
+  }
+  
+  .price.property-1-small-sale .element-2 {
+    font-size: 14px;
+  }
+  
+  .price.property-1-BIG .element-2 {
+    font-size: 16px;
+  }
+  
+  .price.property-1-BIG-sale .element-2 {
+    font-size: 24px;
+  }
+  
+  .price.property-1-small .element-2 {
+    font-size: 16px;
+  }
+  

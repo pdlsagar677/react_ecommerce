@@ -1,0 +1,48 @@
+.category {
+    align-items: center;
+    background-color: var(--gray-scalewhite);
+    border: 1px solid;
+    border-color: var(--gray-scalegray-100);
+    border-radius: 5px;
+    display: inline-flex;
+    flex-direction: column;
+    gap: 16px;
+    justify-content: center;
+    padding: 16px 0px 24px;
+    position: relative;
+  }
+  
+  .category .image-12 {
+    position: relative;
+  }
+  
+  .category .fresh-fruit {
+    color: var(--gray-scalegray-900);
+    font-family: var(--body-large-body-large-500-font-family);
+    font-size: var(--body-large-body-large-500-font-size);
+    font-style: var(--body-large-body-large-500-font-style);
+    font-weight: var(--body-large-body-large-500-font-weight);
+    letter-spacing: var(--body-large-body-large-500-letter-spacing);
+    line-height: var(--body-large-body-large-500-line-height);
+    position: relative;
+    text-align: center;
+  }
+  
+  .category .property-1-4-default {
+    height: 130px;
+    width: 190px;
+  }
+  
+  .category .property-1-4-small {
+    height: 124px;
+    width: 180px;
+  }
+  
+  .category .property-1-5-default {
+    width: 200px;
+  }
+  
+  .category .property-1-5-small {
+    width: 187px;
+  }
+  
